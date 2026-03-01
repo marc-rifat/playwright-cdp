@@ -1,0 +1,8 @@
+[project]
+name = "playwright-bot"
+version = "1.0.0"
+description = "Template: Playwright bot that connects to Chrome via CDP"
+requires-python = ">=3.12"
+dependencies = [
+    "playwright>=1.49",
+]
